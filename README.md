@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Saurav 👋
 
 I'm a Full Stack Engineer with a passion for developing robust and efficient applications. Currently, I'm diving deep into Rust and looking forward to collaborating on interesting Rust projects. I'm also experienced in Haskell and Golang.
 
