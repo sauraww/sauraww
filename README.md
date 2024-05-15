@@ -32,10 +32,6 @@ I'm currently focusing on Rust for both backend, systems programming and fronten
 - **LinkedIn**: [MyLinkdinProfile](https://www.linkedin.com/in/saurav-suman-815428177/)
 - **Twitter**: [MyTwitterHandle](https://twitter.com/SauravR85354002)
 
-## 🌐 Find Me Online
-
-- **GitHub**: [My GitHub Profile](https://github.com/sauraww)
-
 ---
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat about technology and software development!
