@@ -30,7 +30,6 @@ I'm currently focusing on Rust for both backend, systems programming and fronten
 
 - **Email**: [emailMeHere](mailto:sauravsuman2920@gmail.com)
 - **LinkedIn**: [MyLinkdinProfile](https://www.linkedin.com/in/saurav-suman-815428177/)
-- **Twitter**: [MyTwitterHandle](https://twitter.com/SauravR85354002)
 
 ---
 
